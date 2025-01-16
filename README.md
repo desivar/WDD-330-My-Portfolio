@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <div style="background-color: #ffe4e1; padding: 20px; border-radius: 15px; border: 2px solid #ff69b4;">
-  
+
   <!-- Title Section -->
   <h1 align="center" style="color: #ff1493; font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 36px;">
     🌸 Welcome to My GitHub Profile! 🌸
@@ -29,7 +29,7 @@
   
   <!-- Projects Section -->
   <h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #ff69b4;">Featured Projects</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; background-color: white; padding: 20px; border-radius: 15px; background-image: radial-gradient(circle, #ffb6c1 1px, white 1px); background-size: 25px 25px;">
     <!-- Project 1 -->
     <div style="background-color: #fff; border-radius: 10px; padding: 10px; width: 250px; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
       <img src="project1-image-url.jpg" alt="Project 1" style="width: 100%; border-radius: 10px;">
