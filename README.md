@@ -1,8 +1,12 @@
 <!-- Profile README -->
 
 <div align="center">
-  <img src=""C:\Users\jilli\Downloads\bluewallpaper.jpg"" alt="Decorative Background" width="100%">
+  <img src="https://sl.bing.net/f1dPhE676Gq" alt="Pink Dots Background" width="100%">
 </div>
+
+
+# 🌸 Welcome to My GitHub Profile! 🌸
+
 
 # 🌸 Welcome to My GitHub Profile! 🌸
 
