@@ -1,12 +1,12 @@
 <!-- Profile README -->
 
 <div align="center">
-  <img src="your-background-image-url.jpg" alt="Decorative Background" width="100%">
+  <img src=""C:\Users\jilli\Downloads\bluewallpaper.jpg"" alt="Decorative Background" width="100%">
 </div>
 
 # 🌸 Welcome to My GitHub Profile! 🌸
 
-Hi there! I'm **[Your Name]**, a passionate software developer and creative designer.  
+Hi there! I'm **Desire Vargas**, a passionate software developer and creative designer.  
 I love building **cute, interactive**, and user-friendly projects that make people smile! 💖
 
 ---
