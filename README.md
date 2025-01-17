@@ -41,13 +41,13 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 ---
 
 ## 🛠️ Programming Languages & Tools
-- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS
-- **Tools**: Visual Studio Code, Git, Figma, Blender
+- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP, 
+- **Tools**: Visual Studio Code, Git, Figma, Blender,Photoshop, AI/UX, GPT, Augmented Reality, CANVAS
 
 ---
 
 ## 📫 Connect with Me
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)  
+- ✉️ Email: [jillian_desire@yahoo.es](mailto:your-email@example.com)  
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
 - 📱 LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)  
 - 🐦 Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)  
