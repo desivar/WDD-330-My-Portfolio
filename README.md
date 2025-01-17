@@ -1,8 +1,6 @@
 <!-- Profile README -->
 
-<div align="center">
- < "https://sl.bing.net/hcOEKmyuGPY" alt="Pink Dots Background" width="100%">
-</div>
+
 
 
 
