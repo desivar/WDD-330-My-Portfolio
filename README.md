@@ -17,7 +17,7 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 
 
 
-🌟 I'm pursuing a bachelor's degree in software development at BYU-Idaho! 
+🌟 A student in software development at BYU-Idaho! 
 🌟 Software Developer | Web Designer  
 🌟 Lover of all things corlorful, pastel, animated, and engaging! 🎨✨  
 
