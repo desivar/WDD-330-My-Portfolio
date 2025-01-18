@@ -11,7 +11,7 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 ---
 
 ## About Me
-<div align="center">
+<div align="left">
     <img src="https://github.com/user-attachments/assets/bedb265a-0a63-4242-a067-bcc9bfd159b2" alt="Your Picture" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); border: 3px solid #ff69b4;">
 </div>
 
