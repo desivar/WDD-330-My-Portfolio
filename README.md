@@ -2,9 +2,6 @@
 ![Image](https://github.com/user-attachments/assets/e2e157f2-db32-4d3e-bd9c-671d24afca12)
 
 
-
-
-
  # 🌸 Welcome to My Hello World! 🌸
 
 Hi there! I'm **Desire Vargas**, a passionate software developer and creative designer. 
@@ -15,11 +12,8 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 
 ## About Me
 <div align="center">
-    ![Your Picture](https://github.com/desivar/WDD-330-My-Portfolio/issues/2#issue-2796590706)
-    <img alt="Your Picture" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); border: 3px solid #ff69b4;">
+    <img src="https://github.com/user-attachments/assets/bedb265a-0a63-4242-a067-bcc9bfd159b2" alt="Your Picture" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); border: 3px solid #ff69b4;">
 </div>
-
-
 
 🌟 Aesthetic enthusiast  
 🌟 Software Developer | Web Designer  
