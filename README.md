@@ -22,7 +22,6 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 ---
 ## Hello World!
 
-![Image](https://github.com/user-attachments/assets/555607eb-5954-4d1a-8e67-e5a817059fe4)
 🌟This is how my journey to the Hello World started by writting my first code. 
 
 *****************************************
