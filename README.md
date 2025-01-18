@@ -39,7 +39,7 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 ---
 
 ## 🛠️ Programming Languages & Tools
-- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP,MAUI, 
+- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP, Maui, Flutter
 - **Tools**: Visual Studio Code, Git, Figma, Blender,Photoshop, AI/UX, GPT, Augmented Reality, CANVAS, Jira, Dreamweaver, One Note, Postman, ZOOM, Microsoft Team, Azure
 
 ---
