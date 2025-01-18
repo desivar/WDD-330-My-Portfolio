@@ -7,7 +7,8 @@
 
  # 🌸 Welcome to My Hello World! 🌸
 
-Hi there! I'm **Desire Vargas**, a passionate software developer and creative designer.  
+Hi there! I'm **Desire Vargas**, a passionate software developer and creative designer. 
+I enjoy both **thinking and imagining**, which is why I love programming—it allows me to engage both my logical and creative sides
 I love building **cute, interactive**, and user-friendly projects that make people smile! 💖
 
 ---
@@ -20,7 +21,7 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 
 🌟 Aesthetic enthusiast  
 🌟 Software Developer | Web Designer  
-🌟 Lover of all things pastel, animated, and engaging! 🎨✨  
+🌟 Lover of all things corlorful, pastel, animated, and engaging! 🎨✨  
 
 ---
 
@@ -42,8 +43,8 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 ---
 
 ## 🛠️ Programming Languages & Tools
-- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP, 
-- **Tools**: Visual Studio Code, Git, Figma, Blender,Photoshop, AI/UX, GPT, Augmented Reality, CANVAS
+- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP,MAUI, 
+- **Tools**: Visual Studio Code, Git, Figma, Blender,Photoshop, AI/UX, GPT, Augmented Reality, CANVAS, Jira, Dreamweaver, One Note, Postman, ZOOM, Microsoft Team, Azure
 
 ---
 
