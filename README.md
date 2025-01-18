@@ -15,7 +15,7 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 
 ## About Me
 <div align="center">
-    <img src="https://github.com/desivar/WDD-330-My-Portfolio/issues/2#issue-2796590706" alt="Your Picture" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); border: 3px solid #ff69b4;">
+    ![image]https://github.com/desivar/WDD-330-My-Portfolio/issues/2#issue-2796590706 alt="Your Picture" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); border: 3px solid #ff69b4;">
 </div>
 
 
