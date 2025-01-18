@@ -15,9 +15,7 @@ I love building **cute, interactive**, and user-friendly projects that make peop
     <img src="https://github.com/user-attachments/assets/406df0f3-fc5d-4583-a6ce-c2bd98b0ad66" alt="Your Picture" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); border: 3px solid #ff69b4;">
 </div>
 
-
-
-🌟 A student in software development at BYU-Idaho! 
+🌟 A student in software development at BYU-Idaho!  
 🌟 Software Developer | Web Designer  
 🌟 Lover of all things corlorful, pastel, animated, and engaging! 🎨✨  
 
