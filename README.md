@@ -20,6 +20,14 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 🌟 Lover of all things corlorful, pastel, animated, and engaging! 🎨✨  
 
 ---
+## Hello World!
+🌟This is how my journey to the Hello World started by writting my first code. 
+
+*****************************************
+🌟 The main purpose of thsi code it is to 
+
+
+
 
 ## 🌟 Featured Projects 🌟
 
