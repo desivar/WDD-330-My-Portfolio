@@ -28,7 +28,7 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 Hello world Program in Python 
 
 What is Python?
- Acordin to  Data Camp "Python is a versatile and powerful programming language that has gained immense popularity due to its simplicity and wide range of applications. It is used in various fields, including web development, data analysis, machine learning, automation, and more".
+ Acording to  Data Camp "Python is a versatile and powerful programming language that has gained immense popularity due to its simplicity and wide range of applications. It is used in various fields, including web development, data analysis, machine learning, automation, and more".
 The program is able to print the words, "Hello Wold!
 
 
