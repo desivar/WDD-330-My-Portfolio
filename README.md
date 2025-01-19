@@ -2,7 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/e2e157f2-db32-4d3e-bd9c-671d24afca12)
 
 
- # 🌸 Welcome to My Hello World! 🌸
+## 🌸 Welcome to My Hello World! 🌸
 
 Hi there! I'm **Desire Vargas**, a passionate software developer and creative designer. 
 I enjoy both **thinking and imagining**, which is why I love programming—it allows me to engage both my logical and creative sides
@@ -20,11 +20,10 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 🌟 Lover of all things corlorful, pastel, animated, and engaging! 🎨✨  
 
 ---
-## Hello World!
+## Hello World
 
 🌟This is how my journey to the Hello World started by writting my first code. 
 
-*****************************************
 🌟 The main purpose of this code it is to 
 
 
