@@ -50,8 +50,11 @@ The programming language used to make this program is Python
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Pthon](https://www.python.org/)
+* [Python](https://www.python.org/)
 * [Wiki How](https://www.wikihow.com/Make-a-YouTube-Channel)
+* [Python Tutorial](https://www.pythontutorial.net/getting-started/python-hello-world/)
+* [Wikipedia](https://en.wikipedia.org/wiki/History_of_Python)
+* [Canva](https://www.canva.com/?msockid=1e3e59ef03206a3211384d2c02b96bd8)
 
 
 
