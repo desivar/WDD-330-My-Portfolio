@@ -22,9 +22,36 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 ---
 ## Hello World
 
-🌟This is how my journey to the Hello World started by writting my first code. 
+🌟This is how my journey to the Hello World started by writting my first code
+# Overview
 
-🌟 The main purpose of this code it is to 
+Hello world Program in Python 
+
+What is Python?
+ Acordin to  Data Camp "Python is a versatile and powerful programming language that has gained immense popularity due to its simplicity and wide range of applications. It is used in various fields, including web development, data analysis, machine learning, automation, and more".
+The program is able to print the words, "Hello Wold!
+
+
+
+
+[Software Demo Video](https://youtu.be/8Wd3_NSIM6I)
+
+# Development Environment
+
+Python 3: Make sure you have Python 3 installed on your computer.
+A programming environment: Set up a programming environment (e.g., Visual Studio Code) on your computer.
+Create a new directory: Call it "helloworld" anywhere on your system.
+Write your code: Create a Python file (e.g., helloworld.py) and write the following code:
+print("Hello, World!)
+
+
+The programming language used to make this program is Python
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [Web Site Name](https://www.python.org/)
+* [Web Site Name](https://www.wikihow.com/Make-a-YouTube-Channel)
 
 
 
