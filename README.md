@@ -56,7 +56,7 @@ The programming language used to make this program is Python
 * [Wikipedia](https://en.wikipedia.org/wiki/History_of_Python)
 * [Canva](https://www.canva.com/?msockid=1e3e59ef03206a3211384d2c02b96bd8)
 * [Geek for Geeks](https://www.geeksforgeeks.org/how-to-add-images-to-readmemd-on-github/)
-* [Markdown -Cheatsheet] (https://github.com/im-luka/markdown-cheatsheet)
+* [Markdown-Cheatsheet](https://github.com/im-luka/markdown-cheatsheet)
 
 
 
