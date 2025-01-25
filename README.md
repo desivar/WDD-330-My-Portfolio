@@ -67,17 +67,25 @@ The programming language used to make this program is Python
 ## 🌟 Featured Projects 🌟
 
 <div align="center" style="background-color: #ffe4e1; padding: 15px; border-radius: 15px; background-image: url('pink-dots-image-url.jpg');">
+  ## 🌟 My Projects 🌟
+
+### 📝 Project 1: Aid-Memoire
+![Aid-Memoire](https://example.com/aid-memoire-image.png)
+**Description:** Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate.  
+[View Project](https://example.com/aid-memoire)
+
+### 🎨 Project 2: Project Name
+![Project Image](https://example.com/project2-image.png)
+**Description:** A short description of Project 2. Whether you're organizing your workflow or just having fun, this project has got you covered!  
+[View Project](https://example.com/project2)
+
+### 🌈 Project 3: Project Name
+![Project Image](https://example.com/project3-image.png)
+**Description:** A short description of Project 3. Brighten your day and get things done with ease!  
+[View Project](https://example.com/project3)
+
   
-  
-  **[✨ Aid-Memoire App](project2-link)**
-  Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate. Elevate your organization and stay ahead of your to-dos with Aid-Memoire. 🎯✨
-
-- **[✨ Project 2](project2-link)**  
-  A short description of Project 2.
-
-- **[✨ Project 3](project3-link)**  
-  A short description of Project 3.
-
+ 
 </div>
 
 ---
