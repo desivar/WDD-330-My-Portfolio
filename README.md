@@ -70,7 +70,7 @@ The programming language used to make this program is Python
   
   
   **[✨ Aid-Memoire App](project2-link)**
-  A short description of Project 1.
+  Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate. Elevate your organization and stay ahead of your to-dos with Aid-Memoire. 🎯✨
 
 - **[✨ Project 2](project2-link)**  
   A short description of Project 2.
