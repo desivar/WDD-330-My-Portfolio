@@ -73,7 +73,7 @@ The programming language used to make this program is Python
 ![Image](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/images/Screenshot%202025-01-25%20161738.png   )
 **Description:** Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate. 
 Check out the code [here] (https://github.com/desivar/aide-memoire).
-[View Project]()
+[Software Demo Video](https://youtu.)
 
 ### 🎨 Project 2: Project Name
 ![Project Image](https://example.com/project2-image.png)
