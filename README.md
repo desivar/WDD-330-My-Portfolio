@@ -33,7 +33,7 @@ The program is able to print the words, "Hello Wold!
 
 ## My First Hello World Code
 
-Check out the code [here](https://github.com/username/repository/blob/main/codefile.py).
+Check out the code [here](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/Python/helloworld.py).
 
 
 
