@@ -67,7 +67,7 @@ The programming language used to make this program is Python
 ## 🌟 Featured Projects 🌟
 
 <div align="center" style="background-color: #ffe4e1; padding: 15px; border-radius: 15px; background-image: url('pink-dots-image-url.jpg');">
-  ## 🌟 My Projects 🌟
+  
 
 ### 📝 Project 1: Aid-Memoire
 ![Aid-Memoire](https://example.com/aid-memoire-image.png)
