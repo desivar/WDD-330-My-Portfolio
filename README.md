@@ -52,7 +52,7 @@ The programming language used to make this program is Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+🌟Websites that help me to build my project🌟
 * [Python](https://www.python.org/)
 * [Wiki How](https://www.wikihow.com/Make-a-YouTube-Channel)
 * [Python Tutorial](https://www.pythontutorial.net/getting-started/python-hello-world/)
