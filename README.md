@@ -70,7 +70,7 @@ The programming language used to make this program is Python
   
 
 ### 📝 Project 1: Aid-Memoire
-![Aid-Memoire](https://example.com/aid-memoire-image.png)
+![Aid-Memoire](https: alt="Description" width="200" height="150"/>)
 **Description:** Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate. 
 Check out the code [here] (https://github.com/desivar/aide-memoire).
 [View Project]()
