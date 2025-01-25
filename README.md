@@ -68,8 +68,8 @@ The programming language used to make this program is Python
 
 <div align="center" style="background-color: #ffe4e1; padding: 15px; border-radius: 15px; background-image: url('pink-dots-image-url.jpg');">
   
-  **[aid-memoire](URL to your image)**
-
+  
+  **[✨ Aid-Memoire App](project2-link)**
   A short description of Project 1.
 
 - **[✨ Project 2](project2-link)**  
