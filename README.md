@@ -74,6 +74,8 @@ The programming language used to make this program is Python
 
 **Description:** 
 Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate. 
+The Aide-Memoire App is a  personal productivity tool developed using TypeScript and React. 
+
 Check out the code [here](https://github.com/desivar/aide-memoire).
 [Software Demo Video](https://youtu.be/fc5jlVRIpAo)
 
@@ -100,7 +102,7 @@ Check out the code [here](https://github.com/desivar/aide-memoire).
 ---
 
 ## 🛠️ Programming Languages & Tools
-- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP, Maui, Flutter, React, 
+- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP, Maui, Flutter, React
 - **Tools**: Visual Studio Code, Git, Figma, Blender,Photoshop, AI/UX, GPT, Augmented Reality, CANVAS, Jira, Dreamweaver, One Note, Postman, ZOOM, Microsoft Team, Azure
 
 ---
