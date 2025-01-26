@@ -76,8 +76,9 @@ The programming language used to make this program is Python
 Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate. 
 The Aide-Memoire App is a  personal productivity tool developed using TypeScript and React. 
 <div style="text-align: right;">
-TypeScript is a superset of JavaScript that adds static typing. It allows developers to catch errors early during development by specifying the types of variables, function parameters, and return values. This enhances the maintainability and scalability of JavaScript code, making it easier to understand and work with, especially in large codebases.
-React is a popular JavaScript library used for building user interfaces, particularly for single-page applications where you need a fast, interactive experience. It was developed by Facebook and is maintained by a community of developers.
+    
+*TypeScript is a superset of JavaScript that adds static typing. It allows developers to catch errors early during development by specifying the types of variables, function parameters, and return values. This enhances the maintainability and scalability of JavaScript code, making it easier to understand and work with, especially in large codebases.
+*React is a popular JavaScript library used for building user interfaces, particularly for single-page applications where you need a fast, interactive experience. It was developed by Facebook and is maintained by a community of developers.
 </div>
 Check out the code [here](https://github.com/desivar/aide-memoire).
 [Software Demo Video](https://youtu.be/fc5jlVRIpAo)
