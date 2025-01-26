@@ -71,9 +71,20 @@ The programming language used to make this program is Python
 
 ### 📝 Project 1: Aid-Memoire
 ![Image](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/images/aid.png)
-**Description:** Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate. 
+
+**Description:** 
+Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jot down notes, and schedule appointments, all in one intuitive app. Start your day on a positive note with the "Quote of the Day" feature, designed to inspire and motivate. 
 Check out the code [here](https://github.com/desivar/aide-memoire).
 [Software Demo Video](https://youtu.be/fc5jlVRIpAo)
+🌟Websites that help me to build my project🌟
+* [React](https://react.dev/)
+* [Typescript & CSS](https://www.webdevtutor.net/blog/typescript-add-css-to-element)
+* [How To](How To Build Your First TypeScript Project - TODO List Application)
+* [What is React](What Is React And Why You Need To Know It)
+
+
+
+
 
 ### 🎨 Project 2: Project Name
 ![Project Image](https://example.com/project2-image.png)
