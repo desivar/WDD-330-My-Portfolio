@@ -82,13 +82,7 @@ Check out the code [here](https://github.com/desivar/aide-memoire).
 - [React](https://react.dev/)
 - [Typescript & CSS](https://www.webdevtutor.net/blog/typescript-add-css-to-element)
 - [How to Video](https://www.youtube.com/watch?v=jBmrduvKl5w&t=220s)
-
-
-  
-
-
-
-
+---
 
 ### 🎨 Project 2: Project Name
 ![Project Image](https://example.com/project2-image.png)
@@ -100,18 +94,16 @@ Check out the code [here](https://github.com/desivar/aide-memoire).
 **Description:** A short description of Project 3. Brighten your day and get things done with ease!  
 [View Project](https://example.com/project3)
 
-  
  
 </div>
 
 ---
 
 ## 🛠️ Programming Languages & Tools
-- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP, Maui, Flutter
+- **Languages**: JavaScript, TypeScript, Python, C#, HTML, CSS, Java, .NET, PHP, Maui, Flutter, React, 
 - **Tools**: Visual Studio Code, Git, Figma, Blender,Photoshop, AI/UX, GPT, Augmented Reality, CANVAS, Jira, Dreamweaver, One Note, Postman, ZOOM, Microsoft Team, Azure
 
 ---
-
 ## 📫 Connect with Me
 - ✉️ Email: [jillian_desire@yahoo.es](mailto:your-email@example.com)  
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
