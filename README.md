@@ -77,11 +77,11 @@ Aid-Memoire is your ultimate productivity companion! Seamlessly manage tasks, jo
 Check out the code [here](https://github.com/desivar/aide-memoire).
 [Software Demo Video](https://youtu.be/fc5jlVRIpAo)
 
-## 🌟Websites that helps me to build my project🌟
+## 🌟Websites & Videos that helps me to build my project🌟
 
 - [React](https://react.dev/)
 - [Typescript & CSS](https://www.webdevtutor.net/blog/typescript-add-css-to-element)
-- [Link 3](https://example.com)
+- [How to Video](https://www.youtube.com/watch?v=jBmrduvKl5w&t=220s)
 
 
   
