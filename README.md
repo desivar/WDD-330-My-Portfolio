@@ -79,7 +79,7 @@ Check out the code [here](https://github.com/desivar/aide-memoire).
 
 ## 🌟Websites & Videos that helps me to build my project🌟
 
-<div style="text-align: right;">
+<div style="text-align: LEFT;">
 - [React](https://react.dev/)
 - [Typescript & CSS](https://www.webdevtutor.net/blog/typescript-add-css-to-element)
 - [How to Video](https://www.youtube.com/watch?v=jBmrduvKl5w&t=220s)
