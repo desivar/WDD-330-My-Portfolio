@@ -78,8 +78,8 @@ Check out the code [here](https://github.com/desivar/aide-memoire).
 [Software Demo Video](https://youtu.be/fc5jlVRIpAo)
 
 🌟Websites that help me to build my project🌟
-* [React](https://react.dev/)
-* [Typescript & CSS](https://www.webdevtutor.net/blog/typescript-add-css-to-element)
+[React](https://react.dev/)
+[Typescript & CSS](https://www.webdevtutor.net/blog/typescript-add-css-to-element)
   
 
 
