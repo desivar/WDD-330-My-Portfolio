@@ -87,7 +87,7 @@ Check out the code [here](https://github.com/desivar/aide-memoire).
 ---
 
 ### 🎨 Project 2: Pinki Coins
-![Project Image](https://example.com/project2-image.png)
+![Image](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/images/frontpink2.png)
 **Description:** A simple and fun 2D game where Pinky collects coins while avoiding a pesky enemy!  
 Check out the code [here](https://github.com/desivar/pinkicoin).
 [Software Demo Video](  )
