@@ -127,7 +127,7 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 
 ---
 
-### 🕒 Last Updated: January 16, 2025
+### 🕒 Last Updated: February 8, 2025
 
  
       
