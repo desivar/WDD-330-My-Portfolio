@@ -86,10 +86,23 @@ Check out the code [here](https://github.com/desivar/aide-memoire).
 - [How to Video](https://www.youtube.com/watch?v=jBmrduvKl5w&t=220s)
 ---
 
-### 🎨 Project 2: Project Name
+### 🎨 Project 2: Pinki Coins
 ![Project Image](https://example.com/project2-image.png)
-**Description:** A short description of Project 2. Whether you're organizing your workflow or just having fun, this project has got you covered!  
-[View Project](https://example.com/project2)
+**Description:** A simple and fun 2D game where Pinky collects coins while avoiding a pesky enemy!  
+Check out the code [here](https://github.com/desivar/pinkicoin).
+[Software Demo Video](  )
+
+## 🌟Websites & Videos that helps me to build my project🌟
+-[mp3smaller](https://www.mp3smaller.com/)
+-[Remove BG](https://www.remove.bg/)
+-[Piskel](https://www.piskelapp.com/p/create/sprite)
+-[Code Academy](https://www.codecademy.com/pages/learn-python-with-pro?utm_id=t_kwd-79096708329129:loc-119:ag_1265538519949973:cp_370379643:n_o:d_c&msclkid=eefb39e)
+-[Pixabay](https://pixabay.com/music/modern-classical-piano-melody-277609/)
+-[The invent with Python Blog](https://inventwithpython.com/blog/2011/04/30/free-music-sound-effects-tiles-and-2d-art-to-use-in-your-games/)
+
+
+
+
 
 ### 🌈 Project 3: Project Name
 ![Project Image](https://example.com/project3-image.png)
