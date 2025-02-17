@@ -104,7 +104,7 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 
 
 
-### 🌈 Project 3: Project Name
+### 🌈 Project 3: Online Shop App
 ![Project Image](https://example.com/project3-image.png)
 **Description:** A short description of Project 3. Brighten your day and get things done with ease!  
 [View Project](https://example.com/project3)
