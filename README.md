@@ -10,7 +10,7 @@ I love building **cute, interactive**, and user-friendly projects that make peop
 
 ---
 
-## About Me
+## About Me:
 <div align="left">
     <img src="https://github.com/user-attachments/assets/406df0f3-fc5d-4583-a6ce-c2bd98b0ad66" alt="Your Picture" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); border: 3px solid #ff69b4;">
 </div>
@@ -104,7 +104,7 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 
 
 
-### 🌈 Project 3: Online Shop App
+### 🌈 Project 3: Laboartory Management System- A kinter App
 ![Project Image](https://example.com/project3-image.png)
 **Description:** A short description of Project 3. Brighten your day and get things done with ease!  
 [View Project](https://example.com/project3)
@@ -127,7 +127,7 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 
 ---
 
-### 🕒 Last Updated: February 8, 2025
+### 🕒 Last Updated: February 18, 2025Il
 
  
       
