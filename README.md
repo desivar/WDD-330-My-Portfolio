@@ -105,7 +105,7 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 
 
 ### 🌈 Project 3: Laboratory Management System- A kinter App
-![Project Image](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/images/ktinker.png)
+![Project Image](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/images/managementsystem.png)
 **Description:**   
 [View Project](https://youtu.be/dz0fATWAxHQ)
 
