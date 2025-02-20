@@ -109,7 +109,10 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 **Description:**   
 [View Project](https://example.com/project3)
 
- 
+
+ ## 🌟Websites & Videos that helps me to build my project🌟
+ -[MySQL](https://www.mysql.com/)
+ -[]()
 </div>
 
 ---
