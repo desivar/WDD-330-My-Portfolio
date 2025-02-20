@@ -30,7 +30,7 @@ Hello world Program in Python
 What is Python?
  Acording to  Data Camp "Python is a versatile and powerful programming language that has gained immense popularity due to its simplicity and wide range of applications. It is used in various fields, including web development, data analysis, machine learning, automation, and more".
 The program is able to print the words, "Hello Wold!
-
+I)
 ## My First Hello World Code
 
 Check out the code [here](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/Python/helloworld.py).
@@ -105,14 +105,14 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 
 
 ### 🌈 Project 3: Laboratory Management System- A kinter App
-![Project Image](https://example.com/project3-image.png)
+![Project Image](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/images/ktinker.png)
 **Description:**   
 [View Project](https://example.com/project3)
 
 
  ## 🌟Websites & Videos that helps me to build my project🌟
  -[MySQL](https://www.mysql.com/)
- -[]()
+ -[tkinter](https://docs.python.org/3/library/tkinter.html)
 </div>
 
 ---
