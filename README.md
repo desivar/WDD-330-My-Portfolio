@@ -104,9 +104,10 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 
 
 
-### 🌈 Project 3: Laboratory Management System- A kinter App
+### 🌈 Project 3:  Management System
 ![Project Image](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/images/managementsystem.png)
 **Description:**   
+This project is a mangement System  using MySQL, Python and Tkinter, the program that could be used in a clinic laboratoty, in a hospital. You could add, delete, after entering your password as adminstartor you will be able toupdate information stored in the system.
 [View Project](https://youtu.be/dz0fATWAxHQ)
 
 
