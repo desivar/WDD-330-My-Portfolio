@@ -107,12 +107,14 @@ Check out the code [here](https://github.com/desivar/pinkicoin).
 ### 🌈 Project 3: Laboratory Management System- A kinter App
 ![Project Image](https://github.com/desivar/WDD-330-My-Portfolio/blob/main/images/ktinker.png)
 **Description:**   
-[View Project](https://example.com/project3)
+[View Project](https://youtu.be/dz0fATWAxHQ)
 
 
  ## 🌟Websites & Videos that helps me to build my project🌟
  -[MySQL](https://www.mysql.com/)
  -[tkinter](https://docs.python.org/3/library/tkinter.html)
+ -[geekforgeeks](https://www.geeksforgeeks.org/mysql-tutorial/)
+ -[MySql](https://youtu.be/Cz3WcZLRaWc?si=HfEhWj1gFkLo099B)
 </div>
 
 ---
